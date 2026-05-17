@@ -19,13 +19,18 @@ Open daarna: `http://localhost:8088`
 ## Positionering
 
 FreekAI Admin:
-Administratie aanleveren via Telegram, met AI-controle, Informer lookup, duplicaatcheck en menselijke goedkeuring voordat er geboekt wordt.
+Een kleine slimme tool die directe administratie-irritatie wegneemt. Ondernemers leveren facturen en bonnetjes aan via Telegram. FreekAI controleert, vraagt door en zet een voorstel klaar met Informer als eerste koppeling. Er wordt pas geboekt na menselijke goedkeuring.
+
+## Pilotprijzen
+
+- Zzp/kleine ondernemers: EUR 19/mnd, eerste maand gratis
+- Boekhouderspilot: EUR 99/mnd voor maximaal 10 administraties of klanten
+- Setup: geen hoge instapfee; vanaf EUR 49 voor ondernemers of vanaf EUR 99 voor boekhouders als inrichting echt nodig is
 
 ## Nog te bepalen
 
 - Definitief contactadres/formulier
 - Hosting/deploy route voor freekai.nl
 - Logo/beeldmerk
-- Pilotprijs exact
 - Privacy/AVG-pagina
 - Algemene voorwaarden / disclaimer
